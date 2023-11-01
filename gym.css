@@ -1,0 +1,119 @@
+.body
+{
+    margin: 0%;
+  
+}
+.container-1
+{
+  width: 100%;
+  margin: auto;
+    
+}
+.row-1
+{
+   position: relative;
+   margin-bottom: 0%;
+}
+.img{
+   
+    margin: 0%;
+}
+.about
+{
+    width: 700px;
+    margin: auto;
+    position: absolute;
+    top: 35%;
+    left: 13%;
+    color: rgb(203, 211, 219);
+    text-align: center; 
+
+}
+.ti
+{
+    width: auto;
+    size: large;
+    font-weight: 900;
+    color: rgb(225, 220, 220);
+    text-align: center;
+}
+.btn
+{
+    font-size: medium;
+    font-weight: 500;
+    background: rgb(210, 232, 12);
+    color: rgb(148, 152, 152);
+    width: 200px;
+    height: auto;
+    border-radius: 50%;
+    
+}
+.pop-up
+{
+    width: 195px;
+    position: absolute;
+    top: 3px;
+    left: 30%;
+    background: rgba(232, 188, 12, 0.779);
+    color: rgb(19, 20, 20);
+    font-weight: bolder;
+    border-radius: 5%;
+    text-align: center;
+ }
+ .more-det
+ {
+    position: absolute;
+    width: 100%;
+    font-weight: bolder;
+    word-spacing: 2px;
+    font-size: xx-large;
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    margin-top: 0%;
+ }
+ .container-3
+ {
+    background-color:black;
+    border-top: solid black 20px;
+    border-bottom: solid black 40px;
+ }
+ .container-4
+ {
+    background-color: black;
+    margin-top: 0;
+    border-top: 0;
+    border-bottom: solid black 10px;
+    margin-bottom: 0%;
+ }
+ .Fitness
+{
+        color: rgba(255, 217, 0, 0.934);
+        font-size: 70px;
+        font-style: normal;
+        margin-left: 80PX;
+        margin-bottom: 0%;
+}
+.newsletter
+{
+    margin-top: 0;
+      color: rgba(255, 217, 0, 0.934);
+      margin-left: 80px;
+}
+.insta
+{
+    background-color: aliceblue;
+}
+.email
+{
+    margin: 0;
+    font-size: 60px;
+    font-stretch: semi-condensed;
+    word-spacing: 10px; 
+    letter-spacing: 3px;
+    background-color: rgba(255, 217, 0, 0.934);
+    color: black;
+    text-align: center;
+
+}
+ 
